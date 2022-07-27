@@ -16,4 +16,10 @@ The second part of the code was simpler. This part of the project was only in ch
 
 ## 2. IMDb Insights
 
+As this insights were part of a bigger project, this file is meant to be a sketch of what data would be used and how it wanted to be deployed. 
 
+It has been made, first of all, some data wrangling. Then, once the wanted data was selected to make the insights out of it, it has been prepared in some sketchs with python of how the data would be presented in the selected graphs. Finally, the data (in _.csv_) and the first representation of it, were passed to the front-end part of the project, that compile everything together.
+
+## Extra. Bubble Chart
+
+This chart was a
