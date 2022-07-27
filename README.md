@@ -22,4 +22,4 @@ It has been made, first of all, some data wrangling. Then, once the wanted data 
 
 ## Extra. Bubble Chart
 
-This chart was a
+An original and different graph was wanted to present the insights so this Bubble Chart was found interesting, originally from [matplotlib documentation](https://matplotlib.org/3.5.1/_downloads/81bc179821dc9808604c256bcb20b3b0/packed_bubbles.py).
